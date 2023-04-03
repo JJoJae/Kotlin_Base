@@ -13,27 +13,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba0e715a-8790-470b-b8c7-ac00c99244dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ClassInternalStructureClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ClassInternalStructureMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ConstructorClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ConstructorClass2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ConstructorClass3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ConstructorClass4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/ConstructorMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/LocalClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/Member'sVisibilityClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/Member'sVisibilityClass2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/Member'sVisibilityMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/NestedClassClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/NestedClassClass2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass/NestedClassMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/Nullable/NotNullAssertion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/Nullable/Nullable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/Nullable/SafeCall.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/Nullable/SmartCast.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,16 +88,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/Nullable" />
     <property name="memory.settings.postsync.last.time.stamp" value="1678697515370" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/Nullable" />
       <recent name="$PROJECT_DIR$/app/src/main/java/com/example/kotlinbase/DefClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LocalClassKt">
+  <component name="RunManager" selected="Kotlin.ElvisKt">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="KotlinBase.app.main" />
       <option name="DEPLOY" value="true" />
@@ -227,36 +217,36 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.DefClass.ConstructorMainKt" />
+    <configuration name="ElvisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.Nullable.ElvisKt" />
       <module name="KotlinBase.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.HelloWorldKt" />
+    <configuration name="NotNullAssertionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.Nullable.NotNullAssertionKt" />
       <module name="KotlinBase.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.DefClass.LocalClassKt" />
+    <configuration name="NullableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.Nullable.NullableKt" />
       <module name="KotlinBase.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Member_sVisibilityMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.DefClass.Member_sVisibilityMainKt" />
+    <configuration name="SafeCallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.Nullable.SafeCallKt" />
       <module name="KotlinBase.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedClassMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.DefClass.NestedClassMainKt" />
+    <configuration name="SmartCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinbase.Nullable.SmartCastKt" />
       <module name="KotlinBase.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LocalClassKt" />
-        <item itemvalue="Kotlin.NestedClassMainKt" />
-        <item itemvalue="Kotlin.Member_sVisibilityMainKt" />
-        <item itemvalue="Kotlin.ConstructorMainKt" />
-        <item itemvalue="Kotlin.HelloWorldKt" />
+        <item itemvalue="Kotlin.ElvisKt" />
+        <item itemvalue="Kotlin.SafeCallKt" />
+        <item itemvalue="Kotlin.NotNullAssertionKt" />
+        <item itemvalue="Kotlin.SmartCastKt" />
+        <item itemvalue="Kotlin.NullableKt" />
       </list>
     </recent_temporary>
   </component>
